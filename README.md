@@ -1,11 +1,10 @@
 ## About me 💬 
-### Hello, I'm Zen - binaryPanda 🐼
+### Hello, I'm Zen, aka... binaryPanda 🐼
 
 ⚠️ Testing
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning anything 🤣
-- 💬 Ask me about ...
 - ⚡ Fun fact: I'm not a Robot 🤖
 
 
